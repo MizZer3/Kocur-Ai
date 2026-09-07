@@ -1,4 +1,4 @@
-﻿# Kocur Ai (Android) 🐾⚡
+# Kocur Ai (Android) 🐾⚡
 
 <p align="center">
   <b>A powerful, aesthetic floating screen AI assistant for Android powered by OpenAI & Google Gemini.</b>
@@ -33,10 +33,10 @@ Whether you need instant translation, code explanation, text extraction, visual 
   - Capture multiple screens across different apps or pages and submit them together in a single request.
 
 - **🤖 Multimodal AI Models**:
-  - Full compatibility with **OpenAI** (Vision & Text-only formats, e.g. GPT-4o, GPT-4o-mini).
-  - Full compatibility with **Google Gemini API** (Vision & Text-only formats, e.g. Gemini 1.5/2.0 Flash & Pro).
+  - Full compatibility with **OpenAI-compatible APIs** (Vision & Text-only models).
+  - Full compatibility with **Google Gemini API** (Vision & Text-only models).
   - Gemini **Thinking Level** configuration (`Default`, `Low`, `Medium`, `High`, `Minimal`).
-  - Customizable JSON request templates (`assets/`).
+  - Support for custom endpoints and customizable JSON request templates (`assets/`).
 
 - **📁 Profile Management**:
   - **Prompt Profiles**: Save custom prompt templates (e.g. *Translate*, *Explain Code*, *Summarize*, *Math Solver*) and switch between them instantly.
