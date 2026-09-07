@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/MizZer3/Kocur-Ai/releases/latest"><img src="https://img.shields.io/badge/Download-APK-brightgreen?logo=android" alt="Download APK" /></a>
   <img src="https://img.shields.io/badge/Platform-Android-green?logo=android" alt="Platform" />
   <img src="https://img.shields.io/badge/Language-Kotlin-blue?logo=kotlin" alt="Language" />
   <img src="https://img.shields.io/badge/Design-Frutiger_Aero-cyan" alt="Design" />
@@ -63,6 +64,10 @@ Whether you need instant translation, code explanation, text extraction, visual 
 ---
 
 ## 🚀 Getting Started
+
+### 📥 Download APK
+Download the ready-to-install Android APK from the latest release:
+👉 **[Download Kocur-Ai-v1.0.0.apk](https://github.com/MizZer3/Kocur-Ai/releases/download/v1.0.0/Kocur-Ai-v1.0.0.apk)**
 
 ### Prerequisites
 - Android Studio Ladybug (or newer)
