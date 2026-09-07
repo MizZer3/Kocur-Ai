@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Using a default color here, opacity and tint can be applied dynamically -->
+    <solid android:color="#2196F3" />
+    <corners android:radius="100dp" /> <!-- Large radius to create a pill/circle shape -->
+</shape>

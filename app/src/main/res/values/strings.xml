@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Kocur Ai</string>
+    <string name="accessibility_service_description">This service is used to capture the screen when the floating button is pressed and send it to your configured AI API.</string>
+    <string name="title_api_url">API URL</string>
+    <string name="title_api_key">API Key</string>
+    <string name="title_prompt">Custom Prompt</string>
+    <string name="title_model_version">API Format</string>
+    <string name="title_button_opacity">Button Opacity (0-100)</string>
+    <string name="title_max_output_length">Max Output Length</string>
+    <string name="title_hide_ai_button">Прибрати з екрану</string>
+    <string name="title_thinking_level">Thinking Level (Gemini)</string>
+    <string name="title_button_color">Button Color (Hex, e.g. #2196F3)</string>
+    <string name="title_button_size">Button Size with Image (base = 64)</string>
+    <string name="btn_select_image">Select Image</string>
+    <string name="btn_clear_image">Clear</string>
+    <string name="status_image_selected">Status: Custom Image Selected</string>
+    <string name="status_no_image">Status: No Custom Image</string>
+
+    <string name="title_prompt_profile">Prompt Profile</string>
+    <string name="title_api_profile">API Profile</string>
+    <string name="btn_add_profile">Add</string>
+    <string name="btn_rename_profile">Rename</string>
+    <string name="btn_delete_profile">Delete</string>
+    
+    <string name="title_active_prompt_profile">Active Prompt Profile</string>
+    <string name="title_active_api_profile">Active API Profile</string>
+    
+    <string-array name="api_formats">
+        <item>OpenAI (Vision + Text)</item>
+        <item>OpenAI (Text Only)</item>
+        <item>Gemini API (Vision + Text)</item>
+        <item>Gemini API (Text Only)</item>
+    </string-array>
+
+    <string-array name="thinking_levels">
+        <item>Default</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Minimal</item>
+    </string-array>
+</resources>

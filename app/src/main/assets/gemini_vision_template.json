@@ -1,0 +1,22 @@
+{
+  "contents": [
+    {
+      "parts": [
+        {
+          "text": "{{PROMPT}}"
+        },
+        {
+          "inlineData": {
+            "mimeType": "image/jpeg",
+            "data": "{{IMAGE_BASE64}}"
+          }
+        }
+      ]
+    }
+  ],
+  "generationConfig": {
+    "thinkingConfig": {
+      "thinkingLevel": "{{THINKING_LEVEL}}"
+    }
+  }
+}

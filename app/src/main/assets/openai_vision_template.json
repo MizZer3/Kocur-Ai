@@ -1,0 +1,21 @@
+{
+  "model": "gpt-4-vision-preview",
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "{{PROMPT}}"
+        },
+        {
+          "type": "image_url",
+          "image_url": {
+            "url": "data:image/jpeg;base64,{{IMAGE_BASE64}}"
+          }
+        }
+      ]
+    }
+  ],
+  "max_tokens": 1000
+}
